@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Avinash Palakurthi</h1>
-<h3 align="center">A passionate frontend developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-palakurthi&label=Profile%20views&color=0fdaf5&style=flat-square" alt="avinash-palakurthi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-palakurthi" alt="avinash-palakurthi" /></a> </p>
 
-- 🔭 I’m currently working on **SilentVoices**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently building projects on **Agentic AI **
 
-- 📄 About Me **I am a self-taught developer, eager for an opportunity to prove my skills and contribute. Despite facing challenges along the way, I am committed to continuous learning and growth.**
+- 📄 About Me **I am a  self learner, eager for an opportunity to prove my skills and contribute. Despite facing challenges along the way, I am committed to continuous learning and growth.**
 
 - 📫 How to reach me **palakurthiavinash07@gmail.com**
 
